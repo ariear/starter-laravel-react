@@ -8,15 +8,25 @@ Start with clone this repository
 ``` sh
 git clone https://github.com/ariear/starter-laravel-react.git
 ```
-And then run
+then run
 ``` sh
 composer install
 ```
-and
+If you using yarn
 ``` sh
 yarn
 ```
 Or if you prefer using npm
 ``` sh
 npm install
+```
+
+**create a new file named .env then copy it from .env.example**
+
+and run the server
+``` sh
+php artisan serve
+```
+``` sh
+yarn dev
 ```
