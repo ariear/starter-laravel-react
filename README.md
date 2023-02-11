@@ -2,6 +2,12 @@
 
 > This project was created to make it easier for you to create Laravel and React based applications
 
+## Tech List
+  - Laravel 9
+  - React Js
+  - React Router Dom
+  - Tailwind Css
+
 ## Instalation 
 
 Start with clone this repository
