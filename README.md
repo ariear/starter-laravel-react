@@ -36,3 +36,5 @@ php artisan serve
 ``` sh
 yarn dev
 ```
+
+Lets [contribute](https://github.com/ariear/starter-laravel-react/contributors)
