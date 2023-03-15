@@ -34,6 +34,9 @@ and run the server
 php artisan serve
 ```
 ``` sh
+yarn build
+```
+``` sh
 yarn dev
 ```
 
